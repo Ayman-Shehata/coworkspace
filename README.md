@@ -10,7 +10,7 @@ API URL : http://okoolextra.com/cowork.json
 
 
 ## part 2 
-![part1](https://github.com/Ayman-Shehata/coworkspace/blob/master/assets/images/2022-08-11_03-43-57.png)
-
+![part2](https://github.com/Ayman-Shehata/coworkspace/blob/master/assets/images/2022-08-11_03-43-57.png)
+![part2](https://github.com/Ayman-Shehata/coworkspace/blob/master/assets/images/preview.gif)
 ## part 3
 soon
